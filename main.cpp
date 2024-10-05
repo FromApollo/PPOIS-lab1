@@ -1,6 +1,6 @@
 #include <iostream>
-#include "set.h"
-#include "cantor_set.h"
+#include "Set.h"
+#include "CantorSet.h"
 
 void displayMenu();
 
