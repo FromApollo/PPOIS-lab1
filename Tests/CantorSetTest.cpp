@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "D:/BSUIR/3 semester/оонхя/lab1_/Project1/Project1/cantor_set.h"
+#include "D:/BSUIR/3 semester/оонхя/lab1_/Project1/Project1/CantorSet.h"
 #include <sstream>
 
 TEST(CantorSetTest, ViewCantorTreeTest) {

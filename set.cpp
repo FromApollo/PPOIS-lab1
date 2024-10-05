@@ -1,4 +1,4 @@
-#include "set.h"
+#include "Set.h"
 
 Set::Set(const string& input) {
     elements = splitStringIntoElements(input);

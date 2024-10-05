@@ -1,4 +1,4 @@
-#include "cantor_set.h"
+#include "CantorSet.h"
 
 CantorSet::CantorSet(const string& input) : Set(input) {}
 
