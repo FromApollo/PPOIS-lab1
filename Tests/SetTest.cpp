@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "D:/BSUIR/3 semester/оонхя/lab1_/Project1/Project1/Set.h"
+#include "D:/BSUIR/3 semester/PPOIS/lab1/Project1/Project1/Set.h"
 
 
 
